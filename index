@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conexión Ganadera</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a Conexión Ganadera Damnificados</h1>
+    </header>
+    <main>
+        <p>Este es el sitio web para cargar toda la información relevante al caso.</p>
+    </main>
+    <footer>
+        <p>&copy; Gracias por tu colaboración.</p>
+    </footer>
+</body>
+</html>
